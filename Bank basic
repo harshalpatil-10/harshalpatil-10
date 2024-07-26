@@ -1,0 +1,44 @@
+balance=10000
+
+def balanceEnquiry():
+    print("\nYour Current Balance is=",balance)
+
+
+def cashDeposit(balance):
+    amount=int(input("\nEnter Amount you Want to Deposit="))
+    balance=balance+amount
+    print("\nYour Account Balance is=",balance)
+
+def cashWithdrawal(balance):
+    amount=int(input("Enter Amount for Withdrawal="))
+    if amount>balance:
+        print("\nSorry! Your Account Balance is Low :(")
+    else:
+        balance=balance-amount
+        print("\nYour Account Balance is=",balance)
+
+
+def bank():
+
+    choice=int(input("\nEnter your choice="))
+    str(choice).strip()
+    if choice==1:
+        balanceEnquiry()
+    elif choice==2:
+        cashDeposit(balance)
+    elif choice==3:
+        cashWithdrawal(balance)
+    elif choice==4:
+        print("\n\t\tTHANK YOU! :)")
+
+
+
+print(50*"=")
+print("\t\t\tWELCOME TO SBI ATM")
+print(50*"=")
+print("\n=>1.Balance Enquiry")
+print("\n=>2.Cash Deposit")
+print("\n=>3.Cash Withdrawal")
+print("\n=>4.Exit")
+bank()
+
