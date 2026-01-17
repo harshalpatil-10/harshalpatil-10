@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harshal Patil</h1>
+<h1 align="center">Hi, I'm Harshal Patil</h1>
 <h3 align="center">Computer Engineering Student | Java & Backend Learner</h3>
 
 ---
@@ -28,7 +28,9 @@
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
+### Social
+<p>
+  <a href="https://www.instagram.com/harshall.patil/
+">Instagram</a> |
+</p>
 
-### 📊 GitHub Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=harshalpatil-10&show_icons=true&theme=dark)
