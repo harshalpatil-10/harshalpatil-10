@@ -14,7 +14,7 @@
 ### 🌐 Connect with me:
 <p>
   <a href="https://www.linkedin.com/in/harshalpatil5/">LinkedIn</a> |
-  <a href="https://github.com/harshalpatil-10">GitHub</a>
+ 
 </p>
 
 ---
