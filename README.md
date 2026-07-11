@@ -259,7 +259,7 @@ Real-time online compiler with a Monaco-based editor and containerized code exec
 <td>🐳</td><td><b>Containerized Deployments</b> using Docker across multiple projects</td>
 </tr>
 <tr>
-<td>📚</td><td><b>T.E. Computer Engineering Student</b> @ NMIET, Pune</td>
+<td>📚</td><td><b>Final Year Computer Engineering Student</b> @ NMIET, Pune</td>
 </tr>
 <tr>
 <td>💻</td><td><b>Open Source Learner</b> — actively exploring the Spring ecosystem & cloud tooling</td>
