@@ -20,7 +20,7 @@
 ```yaml
 name: Harshal Patil
 role: Computer Engineering Student | Java & Backend Engineer
-education: T.E. Computer Engineering @ NMIET
+education: BE Computer Engineering @ NMIET
 location: Pune, Maharashtra, India
 focus: Spring Boot Ecosystem | REST APIs | Scalable Backends
 currently_learning: [Spring Security, JWT, Docker, AWS, Redis, Microservices, Kafka]
