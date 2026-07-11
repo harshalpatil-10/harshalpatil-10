@@ -234,14 +234,14 @@ Real-time online compiler with a Monaco-based editor and containerized code exec
 <img src="https://raw.githubusercontent.com/harshalpatil-10/harshalpatil-10/output/github-contribution-grid-snake-dark.svg"/>
 </div>
 
-> Set up automatically once you add the workflow file below to your `harshalpatil-10/harshalpatil-10` repo — see setup instructions at the end.
+
 
 <br/>
 
 ## 💡 Random Dev Quote
 
 <div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula"/>
 </div>
 
 <br/>
