@@ -162,7 +162,7 @@ Library management system with authenticated access, catalog tracking, and a cle
 
 [![Frontend](https://img.shields.io/badge/Frontend_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/harshalpatil-10/shelfsync-frontend)
 [![Backend](https://img.shields.io/badge/Backend_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/harshalpatil-10/shelfsync-backend)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://shelfsync-lib.vercel.app/login)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://shelfsync-lib.vercel.app/)
 
 </td>
 </tr>
