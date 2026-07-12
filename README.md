@@ -223,9 +223,7 @@ Real-time online compiler with a Monaco-based editor and containerized code exec
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=harshalpatil-10&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</div>
-
+<img src="https://github-trophies.vercel.app/?username=harshalpatil-10&theme=tokyonight&no-frame=true&row=1&column=6&title=You've%20found%20a%20secret%20trophy"/></div>
 <br/>
 
 ## 🐍 Contribution Snake
