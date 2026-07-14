@@ -248,7 +248,7 @@ Real-time online compiler with a Monaco-based editor and containerized code exec
 
 <table>
 <tr>
-<td>🏆</td><td><b>500+ DSA Problems Solved</b> across LeetCode, GFG, CodeChef & HackerRank</td>
+<td>🏆</td><td><b>500+ DSA Problems Solved</b> across LeetCode & HackerRank</td>
 </tr>
 <tr>
 <td>🚀</td><td><b>3 Full-Stack Applications Shipped</b> — CipherShift, ShelfSync, CodeCanvas — all deployed live</td>
