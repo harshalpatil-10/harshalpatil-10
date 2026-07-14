@@ -52,22 +52,29 @@ fun_fact: "I enjoy turning complex backend problems into simple, clean REST APIs
   <a href="https://leetcode.com/u/harshalpatil_10/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
+
+  <!--
   <a href="https://www.geeksforgeeks.org/profile/harshalpatil10">
     <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
+  -->
+
+  <!--
   <a href="https://www.codechef.com/users/harshalpatil05">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
+  -->
+
   <a href="https://www.hackerrank.com/profile/patilharshal3971">
     <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
   </a>
 </p>
-
+<!--
 <img src="https://img.shields.io/badge/DSA-500%2B%20Problems%20Solved-58A6FF?style=for-the-badge&logo=leetcode&logoColor=white" />
+-->
 
 <br/>
 <br/>
-
 ## 🛠️ Tech Stack
 
 <details open>
