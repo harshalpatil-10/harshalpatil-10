@@ -72,7 +72,7 @@ fun_fact: "I enjoy turning complex backend problems into simple, clean REST APIs
 <!--
 <img src="https://img.shields.io/badge/DSA-500%2B%20Problems%20Solved-58A6FF?style=for-the-badge&logo=leetcode&logoColor=white" />
 -->
-
+<!--
 <br/>
 <br/>
 ## 🛠️ Tech Stack
@@ -271,3 +271,4 @@ Real-time online compiler with a Monaco-based editor and containerized code exec
 <div align="center">
 <sub>⭐ If any of my projects helped you, consider giving them a star — thanks for stopping by!</sub>
 </div>
+-->
