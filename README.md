@@ -54,18 +54,18 @@ fun_fact: "I enjoy turning complex backend problems into simple, clean REST APIs
   </a>
 
 
-  <a href="https://www.geeksforgeeks.org/profile/harshalpatil10">
+  <a href="https://www.geeksforgeeks.org/profile/harshalpati10">
     <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
   
 
   
-  <a href="https://www.codechef.com/users/harshalpatil05">
+  <a href="https://www.codechef.com/users/harshalpatl05">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
   
 
-  <a href="https://www.hackerrank.com/profile/patilharshal3971">
+  <a href="https://www.hackerrank.com/profile/patilharshl3971">
     <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
   </a>
 </p>
