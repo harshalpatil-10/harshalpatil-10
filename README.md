@@ -24,7 +24,7 @@ education: BE Computer Engineering @ NMIET
 location: Pune, Maharashtra, India
 focus: Spring Boot Ecosystem | REST APIs | Scalable Backends
 currently_learning: [Spring Security, JWT, Docker, AWS, Redis, Microservices, Kafka]
-dsa: 500+ problems solved
+dsa: 550+ problems solved
 fun_fact: "I enjoy turning complex backend problems into simple, clean REST APIs."
 ```
 
