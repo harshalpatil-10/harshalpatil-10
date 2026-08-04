@@ -49,7 +49,7 @@ fun_fact: "I enjoy turning complex backend problems into simple, clean REST APIs
 ## 🧩 Coding Profiles
 
 <p align="left">
-  <a href="https://leetcode.com/u/harshalpatil10/">
+  <a href="https://leetcode.com/u/harshalpail10/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 
