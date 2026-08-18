@@ -54,7 +54,7 @@ fun_fact: "I enjoy turning complex backend problems into simple, clean REST APIs
   </a>
 
 
-  <a href="https://www.geeksforgeeks.org/profile/harshalpati10">
+  <a href="https://www.geeksforgeeks.org/profile/harshalpat10">
     <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
   
